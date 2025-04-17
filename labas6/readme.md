@@ -150,7 +150,8 @@ if __name__ == "__main__":
     root.mainloop()
 ```
 ## Скриншот
-![]
+![]![image](https://github.com/user-attachments/assets/dff17017-2e9d-46da-b02c-731811efd9fb)
+
 ## Список литературы
 [Руководство по Tkinter](https://metanit.com/python/tkinter/)
 [chatgpt](https://chatgpt.com/)
