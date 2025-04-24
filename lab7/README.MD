@@ -254,7 +254,7 @@ class Truck(Venicle):
 ```
 
 ## Скриншот
-![image]
+![image](https://github.com/user-attachments/assets/ba909aec-77d1-4c06-a3bd-304a56528956)
 
 ## Список литературы
 [chatgpt](https://chatgpt.com/?)
